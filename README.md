@@ -1,2 +1,3 @@
 # Phishing-detection-system-using-Clustering-technique
-A detection system for immediate detection of phishing activities.
+A robust detection system to reduce user susceptibility to phishing attacks.
+
